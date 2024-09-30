@@ -23,3 +23,29 @@ Make sure you have the following installed on your machine:
 
    ```bash
    git clone https://github.com/salmankhani-sk/gpa-calculator.git
+2.Navigate to the project directory:
+
+bash
+Copy code
+cd gpa-calculator
+Install the dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
+npm run dev
+Open your browser and go to http://localhost:3000 to view the application.
+
+Usage
+Enter the subject name, credit hours, and score for each subject in the form provided.
+Click on "Calculate GPA" to see your GPA result.
+You can add more subjects by clicking on the "Add Another Subject" button.
+Contributing
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Any contributions are welcome!
+
+3.Author
+Salman Khan
